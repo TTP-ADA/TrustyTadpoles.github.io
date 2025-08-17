@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trusty Tadpoles Stake Pool</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Trusty Tadpoles Stake Pool</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Trusty Tadpoles is dedicated to Cardano’s decentralization. We offer reliable staking with transparent operations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Delegate</title>
+      <link>http://localhost:1313/delegate/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/delegate/</guid>
+      <description>&lt;p&gt;Follow these steps to delegate to Trusty Tadpoles using Daedalus or Yoroi: [Link to https://cardano.org/stake-pool-delegation].&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trusty Tadpoles Stake Pool</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/</guid>
+      <description>&lt;h1 id=&#34;trusty-tadpoles&#34;&gt;Trusty Tadpoles&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to Trusty Tadpoles, your trusted Cardano stake pool. Delegate with us to support decentralization and earn rewards.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pool ID&lt;/strong&gt;: 1fb41965ba01ec521ff34632d05d9450802c291813840c1626d59c0f&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ticker&lt;/strong&gt;: TTP&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fees&lt;/strong&gt;: 3% + 345 ADA fixed&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Live Stats&lt;/strong&gt;:&#xA;&lt;iframe src=&#34;https://pooltool.io/pool/1fb41965ba01ec521ff34632d05d9450802c291813840c1626d59c0f/embed&#34; width=&#34;100%&#34; height=&#34;400px&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/delegate/&#34;&gt;Learn How to Delegate&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;About Us&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

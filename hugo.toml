@@ -1,0 +1,10 @@
+baseURL = "https://trustytadpoles.io/"
+title = "Trusty Tadpoles Stake Pool"
+theme = "ananke"
+[params]
+  contentSecurityPolicy = "default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' https://*.pooltool.io"
+publishDir = "docs"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
